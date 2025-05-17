@@ -1,71 +1,58 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://yourusername.github.io/quiz-app/">
     QuizApp
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://github.com/Gauravgupta256/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/Gauravgupta256/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/Gauravgupta256/quiz-app/releases">
+    <img src="https://img.shields.io/github/v/release/Gauravgupta256/quiz-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
+  <a href="https://github.com/Gauravgupta256/quiz-app/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Gauravgupta256/quiz-app" alt="License" />
   </a>
 </p>
 
 <p align="center">
-  QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
+  QuizApp is a free and open-source quiz application that allows users to play fully customizable quizzes directly in the browser. Built with React and integrated with the Open Trivia Database API, it's fast, responsive, and easy to deploy.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+<p align="center">
+  <img src="https://github.com/yourusername/quiz-app/assets/banner.png" alt="QuizApp Screenshot" />
+</p>
 
-## Built with
+## 🚀 Features
 
-- [React](http://react.dev)
-- [Semantic UI](https://semantic-ui.com)
-- [Open Trivia Database API](https://opentdb.com/api_config.php)
+- Play trivia quizzes from various categories
+- Supports multiple difficulty levels
+- Beautiful and responsive UI with Semantic UI
+- Real-time score calculation
+- Fully customizable and extendable
 
-## Development
+## 🛠️ Built With
 
-To get a local copy of the code, clone it using git:
+- [React](https://react.dev) — Frontend library
+- [Semantic UI](https://semantic-ui.com) — UI component framework
+- [Open Trivia DB API](https://opentdb.com/api_config.php) — Question source
 
-```
-git clone https://github.com/SafdarJamal/quiz-app.git
+## 🧑‍💻 Development
+
+To get a local copy of the project and run it locally:
+
+```bash
+git clone https://github.com/yourusername/quiz-app.git
 cd quiz-app
-```
-
-Install dependencies:
-
-```
 npm install
-```
-
-Now, you can start a local web server by running:
-
-```
 npm start
-```
 
-And then open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000 to view it in the browser.
 
-#### Available Scripts
-
-In this project, you can run the following scripts:
-
-| Script        | Description                                                             |
-| ------------- | ----------------------------------------------------------------------- |
-| npm start     | Runs the app in the development mode.                                   |
-| npm test      | Launches the test runner in the interactive watch mode.                 |
-| npm run build | Builds the app for production to the `build` folder.                    |
-| npm run eject | This command will remove the single build dependency from your project. |
-
-## Credits
-
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
-
-## License
-
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+📦 Available Scripts
+Script	Description
+npm start	Runs the app in development mode.
+npm test	Launches the test runner in interactive watch mode.
+npm run build	Builds the app for production to the build folder.
+npm run eject	Removes the single build dependency from your project.
